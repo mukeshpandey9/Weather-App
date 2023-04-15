@@ -5,7 +5,7 @@
 }
 body {
   font-family: "Outfit", sans-serif;
-  background-image: url("	https://images3.alphacoders.com/109/1091500.jpg");
+/*   background-image: url("	https://images3.alphacoders.com/109/1091500.jpg"); */
   background-size: cover;
   background-position: top center;
 }
@@ -50,6 +50,7 @@ main {
   flex-direction: column;
   align-items: center;
   text-align: center;
+  border: 5px solid green;
 }
 .location .city {
   color: #eeeeee;
