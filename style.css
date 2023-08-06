@@ -18,8 +18,7 @@ body {
 .app-wrap {
   display: flex;
   flex-direction: column;
-  height:40vh;
-  width:30vw;
+  
 }
 header {
   display: flex;
@@ -52,7 +51,7 @@ main {
   flex-direction: column;
   align-items: center;
   text-align: center;
-  backdrop-filter:blur(3px);
+  
 }
 .location .city {
   color: #eeeeee;
